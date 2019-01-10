@@ -1,0 +1,43 @@
+body{
+	background: url('../img/weather2.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+}
+h2 {
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    color: #d8ecfd;
+    font-size: 30px;
+    font-family: monospace;
+}
+#wrapperWeather {
+    width: 550px;
+    margin: 0 auto;
+}
+.actualDay {
+    background-color: #574667;
+    text-align: center;
+    text-align: center;
+    color: #cae6de;
+    font-size: 22px;
+    padding: 15px;
+}
+.classH3 {
+    padding: 15px;
+    text-align: center;
+    width: 450px;
+    margin: 0 auto;
+    border-radius: 20px;
+    color: #042644;
+    font-size: 30px;
+    font-family: monospace;
+}
+.fiveDays {
+    background-color: #8aabc7;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 25px;
+}
